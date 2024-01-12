@@ -4,17 +4,22 @@ Learn Python
 
 - [module vs package](https://learnpython.com/blog/python-modules-packages-libraries-frameworks/)
 - [how to create python package](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
+- [How to Package and Deploy CLI Applications With Python](https://www.tutorialspoint.com/how-to-package-and-deploy-cli-applications-with-python)
+
 - 
 
 ## from R to Python
-#### plot
-- ggplot2 alternative
+### plot
+### ggplot2 alternative
 - [matplotlib](https://github.com/matplotlib/matplotlib)
 - [seaborn](https://github.com/mwaskom/seaborn)
 - [12 python visualization package](https://mode.com/blog/python-data-visualization-libraries)
 ## data.table and dplyr alternative 
 - [pandas](https://github.com/pandas-dev/pandas)
+- [polars](https://github.com/pola-rs/polars)
 - [datatable](https://github.com/h2oai/datatable)
+- [arrow_ dates & times](https://github.com/arrow-py/arrow)
+- 
 ## database
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 - [postgres_psycopg2](https://github.com/psycopg/psycopg2)
@@ -23,3 +28,9 @@ Learn Python
 - 
 ## haven alternative 
 - [pyreadstat](https://github.com/Roche/pyreadstat)
+## wer scraping
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html#)
+- [selenium with python](https://selenium-python.readthedocs.io/)
+## others
+- [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
+- 
