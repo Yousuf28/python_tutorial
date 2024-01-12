@@ -1,5 +1,7 @@
-# python_tutorial
-Learn Python
+# python
+
+- [awesome python data science](https://github.com/krzjoa/awesome-python-data-science)
+- [awesome python](https://github.com/vinta/awesome-python)
 
 
 - [module vs package](https://learnpython.com/blog/python-modules-packages-libraries-frameworks/)
