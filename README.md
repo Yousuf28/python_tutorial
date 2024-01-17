@@ -38,3 +38,14 @@
 ## others
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 - 
+### matplotlib
+get backend  
+```
+import matplotlib
+matplotlib.get_backend()
+```
+use a specific backend  
+```
+matplotlib.use('webagg')
+```
+- [backend](https://matplotlib.org/stable/users/explain/figure/backends.html)
