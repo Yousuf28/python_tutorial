@@ -7,6 +7,8 @@
 - [module vs package](https://learnpython.com/blog/python-modules-packages-libraries-frameworks/)
 - [how to create python package](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
 - [How to Package and Deploy CLI Applications With Python](https://www.tutorialspoint.com/how-to-package-and-deploy-cli-applications-with-python)
+- [Click and Python: Build Extensible and Composable CLI Apps](https://realpython.com/python-click/#documenting-commands-and-options)
+- 
 
 - 
 
