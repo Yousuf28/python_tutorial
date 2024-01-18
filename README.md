@@ -49,3 +49,9 @@ use a specific backend
 matplotlib.use('webagg')
 ```
 - [backend](https://matplotlib.org/stable/users/explain/figure/backends.html)
+
+### pandas 
+- [pandas dataframe visualization tools](https://pbpython.com/dataframe-gui-overview.html)
+- [pandas view options](https://pandas.pydata.org/docs/user_guide/options.html)
+- 
+- 
