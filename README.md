@@ -54,4 +54,6 @@ matplotlib.use('webagg')
 - [pandas dataframe visualization tools](https://pbpython.com/dataframe-gui-overview.html)
 - [pandas view options](https://pandas.pydata.org/docs/user_guide/options.html)
 - 
-- 
+
+### tkinter 
+- [briefly explain everythting](https://medium.com/@nishithakalathil/crafting-dynamic-user-interfaces-with-tkinter-0824ba5f051b)
